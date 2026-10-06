@@ -1,0 +1,13 @@
+# Consumer-product subreddits read once a day (read-only).
+BuyItForLife
+Costco
+Sneakers
+SkincareAddiction
+MakeupAddiction
+gadgets
+Frugal
+Coffee
+fragrance
+running
+HomeImprovement
+Cooking

@@ -1,0 +1,13 @@
+# Brand and product names to count (whole words, case-insensitive).
+Costco
+Stanley
+Lululemon
+Nike
+Hoka
+On Running
+Crocs
+Starbucks
+Dyson
+CeraVe
+Trader Joe's
+Yeti

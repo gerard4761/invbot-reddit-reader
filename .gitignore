@@ -1,0 +1,5 @@
+__pycache__/
+counts/
+.env
+.ruff_cache/
+.pytest_cache/
